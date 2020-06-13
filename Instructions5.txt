@@ -1,0 +1,36 @@
+HOW TO PLAY:
+
+The goal of the game is to detect epicenters of earthquakes by graphing circles. When the game opens, you will see a bar on the top containing buttons that go to the instructions screen, pause the game, and quit the game. On the bottom, you will see data about the game play, including how much time has passed, how many deaths have occured, and alerts about new earthquakes. In the middle of the screen, you will see a map that has been divided into 16 sectors. When you click on a sector, it will show you information about the sector on the right hand side of the screen. On the left hand side of the screen, you can enter equations of circles to draw them. Clicking on the navigation menu allows for you to go to the shop panel, where you can buy seismology centers.p and repair sectors.
+
+Before you start the game, use the money you have in the shop panel to buy three seismology centers. After clicking the button, just click on the sector on the map where you want to place it. Information  about the sector will appear to the right.
+
+Then, go to the draw circles panel and test out the circle drawing mechanics. The instructions for drawing circles are below.
+
+Once you are ready, click start at the top of the screen. This will start the timer at the lower left corner of the screen. One day in Seismo World is 90 seconds in the real world.
+
+In the lower right corner, you will see a message saying that a new foreshock was recorded. Click on each sector where a seismology center was placed. Use the information to figure out the equation of the circle, and enter it into the left hand side of the screen. Continue for three centers until you have three circles. The intersection of the three circles will be the epicenter of the earthquake. Click on the sector where the epicenter is located, and click the red evacuate button on the right side of the screen.
+
+If you evacuate the correct district, you will be rewarded with money that you can save to buy more seismology centers and repair sectors. Information about the earthquake will appear on the bottom left hand of the screen. 
+
+If you do not evacuate the correct district, your seniors will make you redo your training quiz. You will be given a graph of a circle and will be asked to enter the equation, radius, and center coordinates, until you get it correctly.
+
+Keep your population running as long as possible! If your population reaches 0, the game ends.
+
+HOW TO DRAW CIRCLES:
+
+To draw a circle, you need to use the information from the seismology center to enter the equation for the circle. The coordinates of the center of the circle would be the coordinates for the seismology center. The radius of the circle would be the distance between the seismology center and the epicenter of the earthquake.
+
+The equation of a circle is in the form (x-a)^2+(y-b)^2=r^2, where a is the x coordinate of the center of the circle, b is the y coordinate of the center of the circle, and r is the radius. Remember to include the minus sign and to square the radius; these are common mistakes.
+
+Enter this equation into one of the text fields on the left. After you press the corresponding checkbox, the circle will show up on the map to the right. If it does not show up, you made a mistake in writing your equation. The error will be in the text field that your equation was in.
+
+To keep the program running smoothly and quickly, try not to write spaces in your equation. This will also help you write the equations and evacuate the sector more quickly.
+
+MORE ON EARTHQUAKES:
+
+Earthquakes are a type of natural disaster that occurs when two plates slide or crack, releasing a lot of energy. A total of 288 people died around the world from earthquakes. It is important to understand the science behind earthquakes to be prepared if one happens around us.
+
+When earthquakes occur, they generally happen after foreshocks, which are preliminary cracks. Earthquakes and foreshocks release P waves and S waves. Seismology centers have seismographs that use the delay between P waves and S waves to figure out the distance from the epicenter. Then, they use their info with two other seismology stations to locate the epicenter of the earthquake.
+
+If an earthquake happens near you, have your emergency kit ready, establish a meet up plan with your family, and keep the radio on for the news about where the epicenter is located. Be prepared; it might save your life one day.
+
